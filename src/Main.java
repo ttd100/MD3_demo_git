@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("demo code lan 2");
+        System.out.println("long dai ca");
     }
 }
